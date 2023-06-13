@@ -6,10 +6,12 @@ draft: false
 Hello! I'm **marcusz**! (also known as ***WMCB Tech***, internally known as ***@zavocc***) and I'm a tech person who has strong interest with computers, mobile devices, and other technology since childhood. I experiment, tinker, spend time with it mostly.
 
 **Interests:**
-Windows, Linux, Development, Android, Tech & ChatGPT junkie, Virtual machines, and crash :fox:
+Windows, Linux, Development, Android, Tech & ChatGPT junkie, Virtual machines, PvZ and crash :fox:
 
-# Background
-I do tech stuff tinkering every day, posting content online, flighting windows insider builds as canary channel, occasionally running virtual machines for OS emulation and discovery. And.... procrastinate.
+I'm learning programming but as a procrastinator, I can't even write a good program with good code just yet :D
+
+## About this website 
+I'm too even lazy ass to design a website, so I used Hugo with papermod to host my personal blog and papermod has very nice look, that would be lazy! But saves me time :<
 
 ## My Devices
 **Dell Inspiron 3671**
@@ -28,5 +30,5 @@ I do tech stuff tinkering every day, posting content online, flighting windows i
 
 More info at https://www.gsmarena.com/oppo_a5_(2020)-9883.php
 
-# Contact
+## Contact
 If you're interested to get in touch with me or to follow me around, you can check out the homepage and click the social icons in what part you're interested following me.
