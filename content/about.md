@@ -1,9 +1,11 @@
 ---
 title: "About Me"
 date: 2023-06-11T17:00:25+08:00
+author: "marcusz"
 draft: false
+description: About this guy
 ---
-Hello! I'm **marcusz**! (also known as ***WMCB Tech***, internally known as ***@zavocc***) and I'm a tech person who has strong interest with computers, mobile devices, and other technology since childhood. I experiment, tinker, spend time with it mostly.
+Hello! I'm **marcusz**! (also known as ***WMCB Tech*** on YouTube, internally known as ***@zavocc***) and I'm a tech person who has strong interest with computers, mobile devices, and other technology since childhood. I experiment, tinker, spend time with it mostly.
 
 **Interests:**
 Windows, Linux, Development, Android, Tech & ChatGPT junkie, Virtual machines, PvZ and crash :fox:
