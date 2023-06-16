@@ -70,8 +70,6 @@ params:
     buttons:
       - name: About Me
         url: "/about"
-      - name: Tags
-        url: "/tags"
       - name: Blogs
         url: "/posts"
 
@@ -106,22 +104,23 @@ params:
 
 menu:
   main:
+      - identifier: About
+      name: About Me
+      url: /about
+      weight: 10
     - identifier: Posts
       name: Blogs
       url: /posts
-      weight: 10
+      weight: 20
     - identifier: Tags
       name: Tags
       url: /tags
-      weight: 20
+      weight: 30
     - identifier: Categories
       name: Categories
       url: /categories
-      weight: 30
-    - identifier: About
-      name: About Me
-      url: /about
       weight: 40
+
 
 # https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # For code snippets display
