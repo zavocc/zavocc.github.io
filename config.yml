@@ -104,7 +104,7 @@ params:
 
 menu:
   main:
-      - identifier: About
+    - identifier: About
       name: About Me
       url: /about
       weight: 10
