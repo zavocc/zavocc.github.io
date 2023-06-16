@@ -60,7 +60,7 @@ params:
 
   # https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
   profileMode:
-    enabled: false # disabling this will fallback to homeInfo mode
+    enabled: true # disabling this will fallback to homeInfo mode
     title: marcusz's site
     subtitle: Tech person
     imageUrl: "/icons/icon.png"
