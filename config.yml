@@ -61,7 +61,7 @@ params:
   # https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
   profileMode:
     enabled: true # disabling this will fallback to homeInfo mode
-    title: marcusz's site
+    title: WMCB Tech (marcusz)
     subtitle: Tech person
     imageUrl: "/icons/icon.png"
     imageWidth: 150
