@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "wmcb.tech",
+  "Id": "f5c29acb-7efb-4506-ab73-d083816fed76"
+}
