@@ -1,5 +1,5 @@
 # https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/
-baseURL: http://zavocc.github.io/
+baseURL: http://localhost:1313
 languageCode: en-us
 title: marcusz's site
 paginate: 5
@@ -50,7 +50,7 @@ params:
     favicon: "/icons/favicon.ico"
     favicon16x16: "/icons/favicon16x16.ico"
     favicon32x32: "/icons/favicon.ico"
-    apple_touch_icon: "/icons/apple-touch-icon.png" #180x180
+    apple_touch_icon: "/icons/apple-touch-icon.png" #180x180, this display next to title header
     # safari_pinned_tab: "/icons/icon.png"
 
   label:
@@ -60,9 +60,9 @@ params:
 
   # https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
   profileMode:
-    enabled: true # disabling this will fallback to homeInfo mode
+    enabled: false # disabling this will fallback to homeInfo mode
     title: WMCB Tech (marcusz)
-    subtitle: Tech person
+    subtitle: He/Him, Bi, Tech person
     imageUrl: "/icons/icon.png"
     imageWidth: 150
     imageHeight: 150
@@ -76,7 +76,7 @@ params:
   # https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode
   homeInfoParams:
     title: Welcome!
-    Content: I'm a tech person
+    Content: He/Him, Bi, Tech person
 
   socialIcons:
     - name: twitter
