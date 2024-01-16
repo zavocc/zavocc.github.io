@@ -50,17 +50,17 @@ params:
     favicon: "/icons/favicon.ico"
     favicon16x16: "/icons/favicon16x16.ico"
     favicon32x32: "/icons/favicon.ico"
-    apple_touch_icon: "/icons/apple-touch-icon.png" #180x180, this display next to title header
+    apple_touch_icon: "/icons/apple-touch-icon.webp" #180x180, this display next to title header
     # safari_pinned_tab: "/icons/icon.png"
 
   label:
     text: "marcusz's site" # This is seen in the top left corner
-    icon: "/icons/apple-touch-icon.png" # This is seen in the top left corner next to the title
+    icon: "/icons/icon.webp" # This is seen in the top left corner next to the title
     iconHeight: 35
 
   # https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
   profileMode:
-    enabled: false # disabling this will fallback to homeInfo mode
+    enabled: true # disabling this will fallback to homeInfo mode
     title: WMCB Tech (marcusz)
     subtitle: He/Him, Bi, Tech person
     imageUrl: "/icons/icon.png"
@@ -82,7 +82,7 @@ params:
     - name: twitter
       url: "https://twitter.com/zavocc"
     - name: mastodon
-      url: "https://techhub.social/@zavocc"
+      url: "https://tech.lgbt/@zavocc"
     - name: discord
       url: "https://discord.com/users/1039885147761283113"
     - name: github
