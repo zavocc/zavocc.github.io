@@ -55,7 +55,7 @@ params:
 
   label:
     text: "marcusz's site" # This is seen in the top left corner
-    icon: "/icons/icon.webp" # This is seen in the top left corner next to the title
+    icon: "/icons/apple-touch-icon.webp" # This is seen in the top left corner next to the title
     iconHeight: 35
 
   # https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
@@ -63,14 +63,14 @@ params:
     enabled: true # disabling this will fallback to homeInfo mode
     title: WMCB Tech (marcusz)
     subtitle: He/Him, Bi, Tech person
-    imageUrl: "/icons/icon.png"
+    imageUrl: "/icons/icon.webp"
     imageWidth: 150
     imageHeight: 150
     imageTitle: main
     buttons:
       - name: About Me
         url: "/about"
-      - name: Blogs
+      - name: Posts
         url: "/posts"
 
   # https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode
@@ -109,7 +109,7 @@ menu:
       url: /about
       weight: 10
     - identifier: Posts
-      name: Blogs
+      name: Posts
       url: /posts
       weight: 20
     - identifier: Tags
