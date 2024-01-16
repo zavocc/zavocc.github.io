@@ -17,7 +17,7 @@ I'm too even lazy ass to design a website, so I used Hugo with papermod to host 
 
 ## My Devices
 **Dell Inspiron 3671**
-- Windows 11 Home (Insider canary channel, previously Windows 10 Home)
+- Windows 11 Home (previously Windows 10 Home)
 - 8GB of RAM 
 - Intel Core i5-9400 CPU @ 2.90GHz
 - 222gb of SSD
