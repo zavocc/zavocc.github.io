@@ -41,6 +41,9 @@ Here are the prompts to get inspired:
 - Suno plugin can only take 5 songs per day
 - Censorship and performance caps
 
+**Recommendations:**
+Use [Microsoft Copilot](https://copilot.microsoft.com) instead of the Bing chat's interface as it supports Chrome and other web browsers, with plugins and history support. This website also has [Suno Plugin](https://blogs.bing.com/search/december-2023/Turn-your-ideas-into-songs-with-Suno-on-Microsoft) available (MS account required), this is what Microsoft is working on and it is recommended to go here instead.
+
 ## Google Bard
 *Link:* https://bard.google.com
 
@@ -67,7 +70,7 @@ ON free tier, it can access the internet for 5 queries per 4 hours. This tool is
 - Free tier maybe limited and may not be as comprehensive for real time world information without internet access.
 
 ## Character.AI
-https://beta.character.ai
+*Link:* https://beta.character.ai
 
 Lets you chat with AI with personalized responses and tone, you can customize your own AI by describing how you want to give a character with AI. With Group chat support.
 
@@ -75,6 +78,46 @@ Lets you chat with AI with personalized responses and tone, you can customize yo
 - It should not be used as an academic tool or for serious work.
 
 ## MyShell.AI
-https://myshell.ai
+*Link:* https://myshell.ai
 
 Library of AI chatbots, with access to GPT-3.5 and reward-based GPT-4 and its open source voice cloning system
+
+
+# Creativity
+Tools that goes beyond text generation!
+
+## Microsoft Designer
+*Link:* https://designer.microsoft.com
+
+Create social media posters, designs, banners, or edit photos with AI. 
+
+**Notable features:**
+- Image Creator - using the latest DALL-E 3 model
+- Design Creator - create and describe your design with just your words
+- Generative Erase - erase unwanted objects in your image
+Soon, there will be sticker creator, generative image expand, and album creator.
+
+You can also manually design your creations after you asked AI to make it or start from scratch.
+
+**Limitations:** Microsoft Account Required!
+
+## Image Creator
+*Link:* https://bing.com/create
+
+Create pictures with just your words, using the latest DALL-E 3 model
+
+**Example prompts:**
+- An image of Spongebob shaking hands with Sonic
+- An image of a cat as an astronaut in space, in pixel art style
+- Sans from undertale shaking hands with Crash Bandicoot
+
+**Tips:** You can use Bing Chat (Microsoft Copilot) to create images for you instead by asking them, allowing you to brainstorm ideas and let AI do the image creation without you adjusting the prompt.
+
+**Limitations:** It only has a cap of 15 uses per day in FREE TIER (with Microsoft Copilot Pro, you get 100 uses per day), stricter censorship.
+
+## Suno AI
+*Link:* https://suno.ai
+
+Generate music, complete with voiced lyrics. Just ask AI what music you want to make based on your thoughts, or manually dump a lyrics that you composed on your own and ask AI to refine it or create it, no need to have musical background, just tell AI what and how you feel, what music you want to make, and more.
+
+**Limitations:** You can create 10 songs per day on free tier, and not all songs generated would include voiced lyrics.
