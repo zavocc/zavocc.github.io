@@ -4,6 +4,31 @@ date: 2024-01-17T05:31:09Z
 author: "marcusz"
 draft: false
 ---
+# Table of contents
+- [Intro with AI](#intro-with-ai)
+- [Exploring alternatives](#exploring-alternatives)
+  - [Chat](#chat)
+    - [Bing Chat (Microsoft Copilot)](#bing-chat-microsoft-copilot)
+    - [Google Bard](#google-bard)
+    - [Google Generative Search](#google-generative-search)
+    - [Perplexity AI](#perplexity-ai)
+    - [Character.AI](#characterai)
+    - [MyShell.AI](#myshellai)
+    - [HuggingChat](#huggingchat)
+  - [Creativity](#creativity)
+    - [Microsoft Designer](#microsoft-designer)
+    - [Image Creator](#image-creator)
+    - [Suno AI](#suno-ai)
+    - [MusicFX By Google](#musicfx-by-google)
+    - [Elevenlabs TTS](#elevenlabs-tts)
+    - [Play.HT](#playht)
+  - [More AI](#more-ai)
+    - [Google AI Labs](#google-ai-labs)
+    - [Huggingface Spaces](#huggingface-spaces)
+    - [GitHub Copilot](#github-copilot)
+  - [Developer tools for making AI](#developer-tools-for-making-ai)
+    - [Makersuite (Google AI studio)](#makersuite-google-ai-studio)
+
 # Intro with AI
 With ChatGPT was a popular topic within the tech field since its launch within the AI/ML category, AI tools have been evolving so quickly due to the nature of Generative AIs or "LLMs" that can generate any content.
 
@@ -20,7 +45,7 @@ With the ChatGPT became the hottest tools on the AI field during its post-launch
 
 Along with Bard which uses in house Google models (from Lamda -> Palm -> Gemini). It functions the same as ChatGPT or Bing Chat, albeit has internet access by default and image input, Bing chat however still outperforms Bard.
 
-Here are the Good ChatGPT alternatives and other AI tools:
+Many of these tools are free to use, with limitations, some paid offerings are mentioned as part of a limitation. Here are the Good ChatGPT alternatives and other AI tools:
 # Chat
 ## Bing Chat (Microsoft Copilot)
 *Link:* https://bing.com/chat \| https://copilot.microsoft.com 
@@ -59,6 +84,18 @@ Enable extensions to work with your email, files, navigation or youtube
 **Limitations:**
 - It may not provide comprehensive results compared to Bing.
 
+
+## Google Generative Search
+*Link:* https://labs.google.com/search/experiments
+
+Enhance your search by letting Google aggregate all results from online sources into a single summary, and further ask follow up questions using the "Converse" tab
+
+**Limitations:**
+- There is an age group limit requiring you to be 18+
+- Not all results can be aggregated
+- It may not be much conversational compared to Bing or Bard as it is mostly used as an informational tool
+- Google Chrome for PC, and Google app for Android and iOS is required to access it
+
 ## Perplexity AI
 *Link:* https://perplexity.ai
 
@@ -82,6 +119,15 @@ Lets you chat with AI with personalized responses and tone, you can customize yo
 
 Library of AI chatbots, with access to GPT-3.5 and reward-based GPT-4 and its open source voice cloning system
 
+## HuggingChat
+*Link:* https://huggingface.co/chat/
+
+Enables you to access [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) LLMs (or Large language models) as an alternative to GPTs or Google's gemini with variety of models optimized for specific fields.
+
+You can try it for free as guest or enable history by signing up for free
+
+**Limitations:**
+- It may not achieve the same level of comprehensiveness as GPT so results maybe inaccurate even with search but should get most things done.
 
 # Creativity
 Tools that goes beyond text generation!
@@ -120,4 +166,66 @@ Create pictures with just your words, using the latest DALL-E 3 model
 
 Generate music, complete with voiced lyrics. Just ask AI what music you want to make based on your thoughts, or manually dump a lyrics that you composed on your own and ask AI to refine it or create it, no need to have musical background, just tell AI what and how you feel, what music you want to make, and more.
 
-**Limitations:** You can create 10 songs per day on free tier, and not all songs generated would include voiced lyrics.
+**Limitations:** You can create 10 songs per day on free tier, and not all songs generated would include voiced lyrics (can be solved through variations so just retry).
+
+**Tips:** Use [Microsoft Copilot](#bing-chat-microsoft-copilot) to let Bing generate songs for you with **Suno Plugin** using your Microsoft account without creating separate suno account. This also lets you brainstorm ideas and let Bing refine it.
+
+## MusicFX By Google
+*Link:* https://aitestkitchen.withgoogle.com/tools/music-fx
+
+Generate music with the variety of instruments
+
+**Limitations:** It doesn't produce voice lyrics compared to suno and is limited upto 1:30 music length
+
+**Notes:** To use this tool, you must use a US VPN, good examples are [**ProtonVPN**](https://protonvpn.com/) (not sponsored). Then login with your google account
+
+## Elevenlabs TTS
+*Link:* https://elevenlabs.io
+
+Generate natural sounding text to speech voices with collection of voices library, text-to-speech and speech-to-speech (voice tone replication with voices library).
+
+**Limitations:** Voice cloning requires paid tier, and you can generate voices upto 10000 character limit per month.
+
+## Play.HT
+*Link:* https://play.ht
+
+Voice cloning tool, allows you to tune, clone, replicate voices from sample voice recordings and adjust how you want your voice to be synthesized (from speed, stability, to emotions).
+
+**Limitations:** You sign up for free with first 11000 credits, to refill, you need to start upgrading your plan to request for credits and refills per month.
+
+# More AI
+## Google AI Labs
+*Link:* https://labs.google
+
+**Limitations:** Some AI tools might require you to use such as US VPN, Google Pixel device with AI capabilities (notably the Pixel 8), and Google one subscription. This can subject to change.
+
+## Huggingface Spaces
+*Link:* https://huggingface.co/spaces
+
+Explore AI apps built by the community
+
+**Limitations:**
+- Computational resources maybe strained so the ability to generate things or perform tasks maybe slower.
+- Some AI tools may not run
+- It may not be as user friendly
+
+## GitHub Copilot
+*Link:* https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot | https://github.com/settings/copilot
+
+Your AI paired assistant, allows you to get your coding work done by letting AI autocomplete what you are trying to code. Or using its GitHub copilot chat extension in [VS Code](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat-in-your-ide) to ask programming related questions with GPT-4 (latest openai model and optimized for developer work).
+
+**Limitations:**
+- This is not free, unless you are a student or a faculty member OR you are working on a large project in your organization. As a student or a faculty staff, you can apply right here (needs github account): https://education.github.com/discount_requests/application 
+- Its chat mode does not support general topics conversations, only programming or developer related ones
+
+# Developer tools for making AI
+THESE are for coders, programmers or developers who wish to integrate AI into their apps from scripts to websites!
+
+OpenAI apis are expensive due to the cost, OpenAI documents a pricing for each models for your apps to use, but you pay as use go, meaning as you use and generate content (to ask quesitons) with it, you are already spending your credits. Therefore here are free tools to use AI within your apps or explore how AI is trained or generate variations.
+
+## Makersuite (Google AI studio)
+*Link:* https://makersuite.google.com and https://ai.google.dev (Not the vertex one)
+
+Allows developers to use and explore Gemini APIs for generating content for their apps that suites their needs or just want to make their own chatbot personalized with their own instructions, safety settings, and variations.
+
+Gemini is what powers up [Bard](#google-bard).
