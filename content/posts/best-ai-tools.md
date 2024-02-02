@@ -18,8 +18,10 @@ draft: false
   - [Creativity](#creativity)
     - [Microsoft Designer](#microsoft-designer)
     - [Image Creator](#image-creator)
+    - [Midjourney](#midjourney)
     - [Suno AI](#suno-ai)
     - [MusicFX By Google](#musicfx-by-google)
+    - [Duet AI using Workspace Labs](#duet-ai-using-workspace-labs)
     - [Elevenlabs TTS](#elevenlabs-tts)
     - [Play.HT](#playht)
   - [More AI](#more-ai)
@@ -50,7 +52,7 @@ Many of these tools are free to use, with limitations, some paid offerings are m
 ## Bing Chat (Microsoft Copilot)
 *Link:* https://bing.com/chat \| https://copilot.microsoft.com 
 
-This is currently the only way to get access to GPT-4 model for free, with **Internet access with Bing**, plugins support, ability to create images with **DALL-E 3**, and soon Code Interpreter: the ability to execute code while generating output based from the results.
+This is currently the only way to get access to GPT-4 model for free during non-peak times, with **Internet access with Bing**, plugins support, ability to create images with **DALL-E 3**, and soon Code Interpreter: the ability to execute code while generating output based from the results.
 
 The recommended way to get the most of this utility is to **Use Microsoft Edge** with **Microsoft Account** signed in. You can use this tool to other browsers but it will be limited (no history, no plugins, limited number of responses)
 
@@ -72,7 +74,7 @@ Use [Microsoft Copilot](https://copilot.microsoft.com) instead of the Bing chat'
 ## Google Bard
 *Link:* https://bard.google.com
 
-Lets you access to Google's in house LLM models (currently [Gemini](https://blog.google/technology/ai/google-gemini-ai/)). Has internet access, history, extensions, and image input
+Lets you access to Google's in house LLM models (currently [Gemini](https://blog.google/technology/ai/google-gemini-ai/)). Has internet access, history, extensions, and image recognition and generation abilities.
 
 **Tips:**  
 Enable extensions to work with your email, files, navigation or youtube  
@@ -80,10 +82,10 @@ Enable extensions to work with your email, files, navigation or youtube
 - Can you find me a document that relates to research (this includes files who shared with you)
 - Find me a YouTube video about retro computing
 - Summarize this video: https://www.youtube.com/watch?v=nUFgBhBBB-E
+- Create an image of fish
 
 **Limitations:**
 - It may not provide comprehensive results compared to Bing.
-
 
 ## Google Generative Search
 *Link:* https://labs.google.com/search/experiments
@@ -141,7 +143,8 @@ Create social media posters, designs, banners, or edit photos with AI.
 - Image Creator - using the latest DALL-E 3 model
 - Design Creator - create and describe your design with just your words
 - Generative Erase - erase unwanted objects in your image
-Soon, there will be sticker creator, generative image expand, and album creator.
+- Sticker Creator - create stickers using the latest DALL-E 3 model
+Soon, there will be generative image expand, and album creator.
 
 You can also manually design your creations after you asked AI to make it or start from scratch.
 
@@ -161,6 +164,16 @@ Create pictures with just your words, using the latest DALL-E 3 model
 
 **Limitations:** It only has a cap of 15 uses per day in FREE TIER (with Microsoft Copilot Pro, you get 100 uses per day), stricter censorship.
 
+## Midjourney
+*Link:* https://www.midjourney.com
+
+Create, edit, merge realistic pictures with just your words right through Discord Bot.
+
+**Limitations:**
+- Your generations may go in public, work with sensitive data with caution!
+- It may have daily usage limits
+- Requires Discord account for authorization and the use of Discord app
+
 ## Suno AI
 *Link:* https://suno.ai
 
@@ -178,6 +191,20 @@ Generate music with the variety of instruments
 **Limitations:** It doesn't produce voice lyrics compared to suno and is limited upto 1:30 music length
 
 **Notes:** To use this tool, you must use a US VPN, good examples are [**ProtonVPN**](https://protonvpn.com/) (not sponsored). Then login with your google account
+
+## Duet AI using Workspace Labs
+*Link:* https://support.google.com/docs/answer/13447104?visit_id=638424634089901740-2280639011
+
+***Available in Limited Preview***
+
+Enables you to draft, create, and organize using your favorite Google Workspace apps.
+
+Currently you can try using Labs features using these apps on the desktop
+- Google Docs - Help me write (drafts paragraph)
+- Google Sheets - Help me organize (drafts tables)
+- Google Slides - Create images using Imagen 2 model
+
+**Limitations:** See limitations above in the link!
 
 ## Elevenlabs TTS
 *Link:* https://elevenlabs.io
