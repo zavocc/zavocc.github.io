@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "marcusz's site"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+copyright = "Copy, _right?_ 🤔"
+logo = "/icon/icon.webp"
+
+[author]
+name = "WMCB Tech (marcusz)"
+image = "/avatar/marcusz.jpg"
+headline = "Hobbyist Troublemaker"
+bio = "A techie person who likes code, AI, explore different aspects of technology such as Linux, Windows, and other software workings."
+links = [
+    { email = "mailto:zavocc1030@outlook.com" },
+    { link = "https://zavocc.github.io/" },
+    { discord = "https://discord.com/users/1039885147761283113" },
+    { github = "https://github.com/zavocc" },
+    { gitlab = "https://gitlab.com/zavocc" },
+    { mastodon = "https://tech.lgbt/@zavocc" },
+    { reddit = "https://reddit.com/user/zavocc" },
+    { steam = "https://steamcommunity.com/id/zavocc306/" },
+    { youtube = "https://youtube.com/@WMCBTech" },
+]
