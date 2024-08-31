@@ -1,5 +1,5 @@
 # https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/
-baseURL: http://localhost:1313
+baseURL: http://zavocc.github.io
 languageCode: en-us
 title: marcusz's site
 paginate: 5
