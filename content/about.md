@@ -8,7 +8,7 @@ description: About this guy
 Hello! I'm **marcusz**! (also known as ***WMCB Tech*** on YouTube, internally known as ***@zavocc***) and I'm a tech person who has strong interest with computers, mobile devices, and other technology since childhood. I experiment, tinker, spend time with it mostly.
 
 **Interests:**
-Windows, Linux, Development, Android, Tech & ChatGPT junkie, Virtual machines, PvZ and crash :fox:
+Windows, Linux, Development, Android, Tech & AI junkie, Virtual machines, and crash :fox:
 
 I'm learning programming but as a procrastinator, I can't even write a good program with good code just yet :D
 

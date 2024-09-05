@@ -21,7 +21,7 @@ params:
   env: production
   title: marcusz's site
   description: Tech Person
-  keywords: ["Tech", "Blog", "Fun"]
+  keywords: ["Tech", "Blog", "Fun", "AI"]
   author: marcusz
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006" # https://gohugo.io/functions/format/
@@ -87,8 +87,14 @@ params:
       url: "https://discord.com/users/1039885147761283113"
     - name: github
       url: "https://github.com/zavocc"
+    - name: gitlab
+      url: "https://gitlab.com/zavocc"
+    - name: reddit
+      url: "https://reddit.com/u/zavocc"
+    - name: linktree
+      url: "https://linktr.ee/zavocc306"
     - name: youtube
-      url: "https://youtube.com/@marcuszavocc"
+      url: "https://youtube.com/@WMCBTech"
     - name: email
       url: mailto:zavocc1030@outlook.com
     
