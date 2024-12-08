@@ -95,6 +95,8 @@ params:
       url: "https://reddit.com/u/zavocc"
     - name: linktree
       url: "https://linktr.ee/zavocc"
+    - name: gravatar
+      url: "https://gravatar.com/zavocc306"
     - name: youtube
       url: "https://youtube.com/@WMCBTech"
     - name: email
