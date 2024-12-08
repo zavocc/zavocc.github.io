@@ -81,6 +81,8 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/zavocc"
+    - name: bluesky
+      url: "https://bsky.app/zavocc.bsky.social"
     - name: mastodon
       url: "https://tech.lgbt/@zavocc"
     - name: discord
@@ -92,11 +94,11 @@ params:
     - name: reddit
       url: "https://reddit.com/u/zavocc"
     - name: linktree
-      url: "https://linktr.ee/zavocc306"
+      url: "https://linktr.ee/zavocc"
     - name: youtube
       url: "https://youtube.com/@WMCBTech"
     - name: email
-      url: mailto:zavocc1030@outlook.com
+      url: mailto:buffer.0verfl0w1030@gmail.com
     
   # analytics:
     # google:
